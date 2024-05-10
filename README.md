@@ -3,3 +3,5 @@
 
 Forked from Inutimuras Version. Aim is to adapt for usage with models trained on the CIC IDS 2018 dataset.
 Written for my Bachelors Thesis
+
+Current development will continue in a private repository. I will push the changes after the conclusion of my Bachelors Thesis.
